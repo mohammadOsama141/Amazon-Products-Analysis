@@ -29,6 +29,8 @@ The distribution of product prices was analyzed to understand the general spendi
 3. **Top 10 Categories by Number of Products**: This bar chart showcases which categories have the most products listed, indicating popular and potentially competitive niches.
 
 4. **Sales vs. Ratings**: A scatter plot that provides an overview of sales in relation to product ratings.
+   ![download](https://github.com/mohammadOsama141/Amazon-Products-Analysis/assets/123809786/0e696699-ca18-4137-a00f-f8ad4e1587c5)
+
 
 ## Significance
 The analysis provides valuable insights for sellers, marketers, and business strategists to understand market trends, customer preferences, and competitive landscapes. It aids in making informed decisions regarding product listings, pricing strategies, and marketing campaigns.
